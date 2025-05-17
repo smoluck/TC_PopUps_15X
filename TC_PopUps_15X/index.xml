@@ -6,8 +6,8 @@
 		<source target="TC_Popups_15X/Configs/TC_Popup_Keymap.CFG">Configs/TC_Popup_Keymap.CFG</source>
 		<source target="TC_Popups_15X/Configs/TC_TOP_BAR_MENU.cfg">Configs/TC_TOP_BAR_MENU.cfg</source>
 		<source target="TC_Popups_15X/DOC/CreateNewItem.jpg">DOC/CreateNewItem.jpg</source>
-		<source target="TC_Popups_15X/DOC/viewport.jpeg">DOC/viewport.jpeg</source>
-		<source target="TC_Popups_15X/DOC/topbar.jpeg">DOC/topbar.jpeg</source>
+		<source target="TC_Popups_15X/DOC/viewport.gif">DOC/viewport.gif</source>
+		<source target="TC_Popups_15X/DOC/topbar.gif">DOC/topbar.gif</source>
 		<source target="TC_Popups_15X/DOC/SMO_HelpWeb_TC_Popups_15X.py">DOC/SMO_HelpWeb_TC_Popups_15X.py</source>
 		<source target="TC_Popups_15X/DOC/TC_Popups_Help.htm">DOC/TC_Popups_Help.htm</source>
 		<source target="TC_Popups_15X/DOC/TC_Popups_Help_files/accordion.js">DOC/TC_Popups_Help_files/accordion.js</source>

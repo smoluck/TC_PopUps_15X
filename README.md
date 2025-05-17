@@ -12,7 +12,7 @@ It's a great kit that he've made.
 As the kit was not updated to work on Modo 15 and up release, I decided to update the code it and add some features.
 Tim kindly gave me his agreement to update and share it.
 
-![CreateNewItem.jpg](TC_PopUps_15X/DOC/CreateNewItem.jpg)
+![CreateNewItem.jpg](TC_PopUps_15X/DOC/CreateNewItem.gif)
 
 ![viewport.jpeg](TC_PopUps_15X/DOC/viewport.jpeg)
 
@@ -27,12 +27,11 @@ To install the kit, Drag & Drop the LPK into Modo window, then restart Modo.
 
 # TOP MENU BAR
 
-![topbar.jpeg](TC_PopUps_15X/DOC/topbar.jpeg)
-
 You can now access to a Web page that describe all the commands directly from the Kit via the DOCUMENTATION.
 
 Now you can also set your own Keymaps in the same menu.
 
+![topbar.jpeg](TC_PopUps_15X/DOC/topbar.gif)
 
 # KEYMAPS
 
@@ -43,11 +42,6 @@ Ctrl + m to apply a Material through Popup Menu List.
 Alt + F1 for every other context.
 
 Alt + i to select a Channel input.
-
-
-# DOCUMENTATION
-- [Online Documentation](https://smonster-doc.readthedocs.io/en/latest)
-- [Update Log](https://smonster-doc.readthedocs.io/en/latest/updatelog.html)
 
 
 # DISCLAIMER

@@ -16,6 +16,11 @@ Tim kindly gave me his agreement to update and share it.
 
 ![viewport.jpeg](TC_PopUps_15X/DOC/viewport.jpeg)
 
+
+# RELEASES
+
+[version 2.1.1](Release/TC_Popups_15X_v2.1.1.lpk)
+
 # DETAILS
 To install the kit, Drag & Drop the LPK into Modo window, then restart Modo.
 
